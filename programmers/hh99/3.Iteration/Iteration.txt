@@ -1,0 +1,6 @@
+코딩에서 "반복문"은 영어로 "Loop" 또는 "Iteration"이라고 번역할 수 있습니다. 
+특정한 종류의 반복문을 지칭하는 경우에는 다음과 같이 번역됩니다:
+
+for문: For Loop
+while문: While Loop
+do-while문: Do-While Loop
